@@ -1,0 +1,18 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "2-adder",
+  "short_name": "2-adder",
+  "version": "onsen.adder.app",
+  "description": "A simple calculator app",
+  "author": "Android Research",
+  "icons": [
+    {
+      "src": "icon144.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "orientation": "portrait",
+  "start_url": "index.html"
+}

@@ -21,6 +21,7 @@
     <preference name="phonegap-version" value="cli-8.0.0" />
     <icon src="icon144.png" />
     <engine name="android" spec="~7.1.4" />
+    <engine name="ios" spec="^4.5.5" />
     <plugin name="cordova-plugin-battery-status" spec="~1.2.4" />
     <plugin name="cordova-plugin-camera" spec="~2.4.1" />
     <plugin name="cordova-plugin-media-capture" spec="~1.4.3" />
@@ -35,5 +36,4 @@
     <plugin name="cordova-plugin-whitelist" spec="~1.2.0" />
     <plugin name="cordova-plugin-console" spec="~1.0.1" />
     <plugin name="cordova-plugin-statusbar" spec="~1.0.1" />
-    <engine name="ios" spec="~4.5.5" />
 </widget>
